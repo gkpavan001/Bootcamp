@@ -1,0 +1,8 @@
+SparkWordCountJavaDemo
+SparkWordCount
+StreamingWordCount
+KafkaWordCountStream
+ParquetTest
+
+StructuredStreamingAverageDemo
+KafkaSparkStreamDemo
